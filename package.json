@@ -1,0 +1,26 @@
+{
+  "name": "@stalwartszen/react-native-expo-blur",
+  "version": "1.0.0",
+  "description": "A custom blur component  for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kushal Bauskar @stalwartszen",
+  "keywords": [
+    "react-native",
+    "native",
+    "blur",
+    "glassmorphism",
+    "react-native-blur",
+    "react-native-expo-blur",
+    "expo-blur"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@react-native-community/blur": "^4.4.0",
+    "react-native": "^0.74.4",
+    "react-native-svg": "^15.4.0"
+  },
+  "devDependencies": {}
+}
